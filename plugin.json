@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.5",
+  "name": "mobile-helper",
+  "author": "Acai",
+  "url": "https://github.com/KuiyueRO/siyuan-mobile-helper",
+  "version": "0.0.1",
   "minAppVersion": "3.0.12",
   "backends": [
     "windows",
@@ -20,12 +20,12 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "mobile-helper",
+    "zh_CN": "移动端小助手"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "en_US": "A plugin to switch desktop mode and mobile mode in siyuan.",
+    "zh_CN": "一个在思源中切换桌面模式和手机模式的插件。"
   },
   "readme": {
     "en_US": "README.md",
@@ -37,6 +37,6 @@
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "plugin", "mobile", "移动"
   ]
 }

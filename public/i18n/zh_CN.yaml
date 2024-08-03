@@ -1,5 +1,8 @@
 ---
-addTopBarIcon: 使用插件添加一个顶栏按钮
+addTopBarIcon: 切换桌面模式和手机模式
+modeswitch: 模式切换
+automodeswitch: 自动切换思源的显示模式
+automodeswitchdescription: 开启选项，思源启动时自动进入桌面模式（切换后会重新热加载思源，因此启动速度会变慢）
 cancel: 取消
 save: 保存
 byeMenu: 再见，菜单！

@@ -1,5 +1,8 @@
 {
-    "addTopBarIcon": "Add a top bar icon by plugin",
+    "addTopBarIcon": "Switch Desktop mode and Mobile mode",
+    "modeswitch": "Mode Switch",
+    "automodeswitch": "Auto Switch Display Mode",
+    "automodeswitchdescription": "Enable the option to automatically enter desktop mode when Siyuan starts (Siyuan will be hot-loaded again after switching, so the startup speed will be slower)",
     "cancel": "Cancel",
     "save": "Save",
     "byeMenu": "Bye, Menu!",
