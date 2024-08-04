@@ -1,4 +1,4 @@
-v0.0.1 ⭐⭐⭐Early preview version, no bugs guaranteed, I have no problem using it myself.
+v0.0.1 ⭐⭐⭐Early preview version, no guarantee of bug-free, I have no problem using it myself.
 
 > A plugin to optimize the mobile experience. Currently, it only has the feature of switching between mobile mode and desktop mode.
 
